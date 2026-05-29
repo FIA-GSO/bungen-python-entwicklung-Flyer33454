@@ -27,7 +27,7 @@ Erstellen Sie ein Aktivitätsdiagramm zur Populationsentwicklung von R2-D2-Robot
 |**Schritt**|**Junge R2D2**|**Erwachsene R2D2**|**Alte R2D2**|
 | :-: | :-: | :-: | :-: |
 |1|10|10|10|
-|2||||
+|2|60|5|3.33|
 |…|<p></p><p></p>|||
 |<p></p><p></p>||||
 |<p></p><p></p>||||
